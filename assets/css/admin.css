@@ -1,0 +1,9 @@
+.wp-admin .m-p-body .kc-param-row.field-group > .m-p-r-label,
+.wp-admin .m-p-body .kc-param-row.field-group > .m-p-r-content {
+    padding: 0 15px;
+}
+.kc-adding-elements .kc-element-item[data-name="dgtkce_title"],
+.kc-adding-elements .kc-element-item[data-name="dgtkce_description"],
+.kc-adding-elements .kc-element-item[data-name="dgtkce_button"] {
+	display: none !important;
+}
